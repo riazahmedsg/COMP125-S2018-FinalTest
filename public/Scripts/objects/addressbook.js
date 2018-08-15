@@ -1,7 +1,7 @@
 /* Custom JS goes here */
 /* File name:           addressbook.js
 Author's name:          Riaz Ahmed
-web site name:          riazahmedsg.github.io
+web site name:          https://github.com/riazahmedsg/COMP125-S2018-FinalTest.git
 file description:       contains Javascript code Code      */
 (function () {
     class AddressBook {
